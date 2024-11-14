@@ -2,7 +2,7 @@
 
 ## A Silent Voice
 
-![A Silent Voice Poster](https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/A_Silent_Voice_Film_Poster.jpg/220px-A_Silent_Voice_Film_Poster.jpg)
+![A Silent Voice Poster]([https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/A_Silent_Voice_Film_Poster.jpg/220px-A_Silent_Voice_Film_Poster.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn1.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcS0OwMbIC568ypKPmgxuoXAJ-sdwVKz2dmQ2dnko7GMjN5cS5Hp&psig=AOvVaw0nW918G5mKVAc3XypmrzW2&ust=1731641706822000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOjIopjy2okDFQAAAAAdAAAAABAE))
 
 ### Overview
 **A Silent Voice** is a Japanese animated film that beautifully portrays themes of:
